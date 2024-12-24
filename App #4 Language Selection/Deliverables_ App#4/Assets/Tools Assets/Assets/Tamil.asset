@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1c689976fe4be54facbf0dddffadfca, type: 3}
+  m_Name: Tamil
+  m_EditorClassIdentifier: 
+  languageName: Tamil
+  strings:
+  - key: Stop
+    value: "\u0BA8\u0BBF\u0BB1\u0BC1\u0BA4\u0BCD\u0BA4\u0BC1"
+  - key: Exit
+    value: "\u0BB5\u0BC6\u0BB3\u0BBF\u0BAF\u0BC7\u0BB1\u0BC1"
+  - key: Return
+    value: "\u0BA4\u0BBF\u0BB0\u0BC1\u0BAE\u0BCD\u0BAA\u0BC1"
+  - key: Leave
+    value: "\u0B95\u0BBF\u0BB3\u0BAE\u0BCD\u0BAA\u0BC1"
+  - key: 
+    value: 
